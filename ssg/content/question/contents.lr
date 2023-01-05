@@ -1,9 +1,241 @@
+_model: slides
+---
 title: Week 1: Question
 ---
 body:
+
+<section>
+    <section>
+        <h1>welcome back wwu data science club!</h1>
+        <p>welcome to the <b>third</b> ever club meeting!</p>
+    </section>
+    <section>
+        <i>vuvuzela sounds</i>
+    </section>
+    <section>
+        you're probably here for lots of different reasons, but mainly to have **fun with data and cultivate community and friendships**.
+    </section>
+
+    <section>
+        lots going on at the beginning of the quarter, so please arrive however you are, and do whatever your body needs - **wiggles are welcome!**
+    </section>
+</section>
+
+<section>
+<h1>agenda</h1>
+
+<ul>
+    <li>welcome.</li>
+    <li>agenda.</li>
+    <li>meeting schedule.</li>
+    <li>introductions.</li>
+    <li>stretch break.</li>
+    <li>group activity.</li>
+    <li>group shareout.</li>
+    <li>open the floor.</li>
+    <li>conclusion.</li>
+</ul>
+</section>
+
+
+<section>
+<h1>btw</h1>
+
+these slides are available here: 
+
+<a href="https://wwudatascienceclub.github.io/question/">https://wwudatascienceclub.github.io/question/</a>
+
+</section>
+
+<section>
+    <h1>weekly meeting schedule + theme</h1>
+    <p>here's a vision for winter quarter</p>
+</section>
+
+<section>
+
+    <section>
+        <h1>week 1</h1>
+        <p>week starting: jan. 1</p>
+        <p>theme: question</p>
+        <p>presenter: matt</p>
+        <p>generate good questions and guesses.</p>
+    </section>
+
+    <section>
+        <h1>week 2</h1>
+        <p>week starting: jan. 8</p>
+        <p>theme: collect</p>
+        <p>presenter:</p>
+        <p>find data or collect it.</p>
+    </section>
+
+    <section>
+        <h1>week 3</h1>
+        <p>week starting: jan. 2</p>
+        <p>theme: store</p>
+        <p>presenter: matt?</p>
+        <p>where and how to store data.</p>
+    </section>
+
+    <section>
+        <h1>week 4</h1>
+        <p>week starting: jan. 29</p>
+        <p>theme: transform</p>
+        <p></p>
+        <p>transform and compliment data.</p>
+    </section>
+
+    <section>
+        <h1>week 5</h1>
+        <p>week starting: feb. 5</p>
+        <p>theme: explore</p>
+        <p></p>alex      
+        <p>play with data.</p>
+    </section>
+
+    <section>
+        <h1>week 6</h1>
+        <p>week starting: feb. 12</p>
+        <p>theme: model      </p>
+        <p></p>
+        <p>predict the future.</p>
+    </section>
+
+    <section>
+        <h1>week 7</h1>
+        <p>week starting: feb. 19</p>
+        <p>theme: present    </p>
+        <p></p>brenn     
+        <p>visualize data.</p>
+    </section>
+
+    <section>
+        <h1>week 8</h1>
+        <p>week starting: feb. 26</p>
+        <p>theme: publish    </p>
+        <p></p>
+        <p>share findings.</p>
+    </section>
+
+    <section>
+        <h1>week 9</h1>
+        <p>week starting: mar. 5</p>
+        <p>theme: repeat     </p>
+        <p></p>
+        <p>iterate on projects.</p>
+    </section>
+
+    <section>
+        <h1>week 10</h1>
+        <p>week starting: mar. 12</p>
+        <p>theme: celebrate  </p>
+        <p></p>
+        <p>unplug.</p>
+    </section>
+
+</section>
+
+<section>
+<h1>aside: club leadership</h1>
+
+<p>club focus is data, but some of us need to think about operational things - promotion, planning, budget, etc.</p>
+
+<p>if that sounds like you, and apply:</p>
+
+<a href="https://forms.office.com/r/zAfcQkFyq9">https://forms.office.com/r/zAfcQkFyq9</a>
+
+</section>
+
+<section>
+<h1>introductions</h1>
+
+<p>camp counselor style:</p>
+
+<ul>
+    <li>
+        first go around:
+        <b>what is your name/(pronouns).</b>
+    </li>
+    <li>
+        second go around, "<i>popcorn style</i>": <b>favorite dataset or tool.</b>
+    </li>
+</ul>
+
+</section>
+
+<section>
+<h1>stretch break.</h1>
+
+<p>do what you need to do. we support you if you need to leave, come late, stretch during. w/e!</p>
+
+</section>
+
+<section data-markdown>
+  <textarea data-template>
+
+## todo. operational (from last quarter)
+
+* [TODO] elect/appoint leadership.
+* [DONE] set a time for winter meetings.
+* [IN PROGRESS] gauge interest in people *owning* a week.
+* [TODO] incorporate as a club
+
+  </textarea>
+</section>
+
+<section data-markdown>
+  <textarea data-template>
+
+## todo. technical/$$$
+
+* [DONE] create a github organization (done: [https://github.com/orgs/wwudatascienceclub/repositories](https://github.com/orgs/wwudatascienceclub/repositories))
+    * [DONE] create a promotional website.
+* [WONTFIX] buy a domain name.
+    * [WONTFIX] wwudatascienceclub.com
+* [DONE] create a gmail account.
+    * wwudatasciencesclub@gmail.com
+* [IN PROGRESS] decide where to host metadata.
+    * [DONE] publish meta data.
+
+  </textarea>
+</section>
+
+
+<section data-markdown>
+  <textarea data-template>
+
+## external
+
+* [TODO] contact profs for promotion.
+* [TODO] make and place posters.
+
+  </textarea>
+</section>
+
+
+<section data-markdown>
+  <textarea data-template>
 
 ## Dataset 1: WWU Classfinder
 
 ## Dataset 2: Google Analytics
 
 ## Dataset 3: Municipal Data
+
+  </textarea>
+</section>
+
+<section>
+<h1>thanks!</h1>
+</section>
+
+<section data-markdown>
+  <textarea data-template>
+
+# surveys links
+
+* membership: [https://forms.office.com/r/qLZded0fGN](https://forms.office.com/r/qLZded0fGN)
+* leadership: [https://forms.office.com/r/zAfcQkFyq9](https://forms.office.com/r/zAfcQkFyq9)
+
+</section>
