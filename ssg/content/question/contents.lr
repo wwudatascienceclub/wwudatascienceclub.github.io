@@ -22,29 +22,28 @@ body:
 </section>
 
 <section>
-<h1>agenda</h1>
-
-<ul>
-    <li>welcome.</li>
-    <li>agenda.</li>
-    <li>meeting schedule.</li>
-    <li>introductions.</li>
-    <li>stretch break.</li>
-    <li>group activity.</li>
-    <li>group shareout.</li>
-    <li>open the floor.</li>
-    <li>conclusion.</li>
-</ul>
+    <h1>agenda</h1>
+    <ul>
+        <li>welcome.</li>
+        <li>agenda.</li>
+        <li>meeting schedule.</li>
+        <li>club status.</li>
+        <li>introductions.</li>
+        <li>stretch break.</li>
+        <li>group activity.</li>
+        <li>group shareout.</li>
+        <li>open the floor.</li>
+        <li>conclusion.</li>
+    </ul>
 </section>
 
 
 <section>
-<h1>btw</h1>
+    <h1>btw</h1>
 
-these slides are available here: 
+    these slides are available here: 
 
-<a href="https://wwudatascienceclub.github.io/question/">https://wwudatascienceclub.github.io/question/</a>
-
+    <a href="https://wwudatascienceclub.github.io/question/">https://wwudatascienceclub.github.io/question/</a>
 </section>
 
 <section>
@@ -82,7 +81,7 @@ these slides are available here:
         <h1>week 4</h1>
         <p>week starting: jan. 29</p>
         <p>theme: transform</p>
-        <p></p>
+        <p>presenter: </p>
         <p>transform and compliment data.</p>
     </section>
 
@@ -90,15 +89,15 @@ these slides are available here:
         <h1>week 5</h1>
         <p>week starting: feb. 5</p>
         <p>theme: explore</p>
-        <p></p>alex      
+        <p>presenter: alex</p>      
         <p>play with data.</p>
     </section>
 
     <section>
         <h1>week 6</h1>
         <p>week starting: feb. 12</p>
-        <p>theme: model      </p>
-        <p></p>
+        <p>theme: model</p>
+        <p>presenter: seth</p>
         <p>predict the future.</p>
     </section>
 
@@ -106,7 +105,7 @@ these slides are available here:
         <h1>week 7</h1>
         <p>week starting: feb. 19</p>
         <p>theme: present    </p>
-        <p></p>brenn     
+        <p>presenter: brenn</p>     
         <p>visualize data.</p>
     </section>
 
@@ -114,7 +113,7 @@ these slides are available here:
         <h1>week 8</h1>
         <p>week starting: feb. 26</p>
         <p>theme: publish    </p>
-        <p></p>
+        <p>presenter: </p>
         <p>share findings.</p>
     </section>
 
@@ -122,7 +121,7 @@ these slides are available here:
         <h1>week 9</h1>
         <p>week starting: mar. 5</p>
         <p>theme: repeat     </p>
-        <p></p>
+        <p>presenter: </p>
         <p>iterate on projects.</p>
     </section>
 
@@ -130,7 +129,7 @@ these slides are available here:
         <h1>week 10</h1>
         <p>week starting: mar. 12</p>
         <p>theme: celebrate  </p>
-        <p></p>
+        <p>presenter: </p>
         <p>unplug.</p>
     </section>
 
@@ -151,25 +150,6 @@ these slides are available here:
 <h1>introductions</h1>
 
 <p>camp counselor style:</p>
-
-<ul>
-    <li>
-        first go around:
-        <b>what is your name/(pronouns).</b>
-    </li>
-    <li>
-        second go around, "<i>popcorn style</i>": <b>favorite dataset or tool.</b>
-    </li>
-</ul>
-
-</section>
-
-<section>
-<h1>stretch break.</h1>
-
-<p>do what you need to do. we support you if you need to leave, come late, stretch during. w/e!</p>
-
-</section>
 
 <section data-markdown>
   <textarea data-template>
@@ -212,6 +192,26 @@ these slides are available here:
 
   </textarea>
 </section>
+
+<ul>
+    <li>
+        first go around:
+        <b>what is your name/(pronouns).</b>
+    </li>
+    <li>
+        second go around, "<i>popcorn style</i>": <b>favorite dataset or tool.</b>
+    </li>
+</ul>
+
+</section>
+
+<section>
+<h1>stretch break.</h1>
+
+<p>do what you need to do. we support you if you need to leave, come late, stretch during. w/e!</p>
+
+</section>
+
 
 <section>
 <section data-markdown>
