@@ -213,21 +213,113 @@ these slides are available here:
   </textarea>
 </section>
 
-
+<section>
 <section data-markdown>
   <textarea data-template>
 
-## Dataset 1: WWU Classfinder
-
-## Dataset 2: Google Analytics
-
-## Dataset 3: Municipal Data
+# main event??
 
   </textarea>
 </section>
 
+<section data-markdown>
+  <textarea data-template>
+
+## let's think about what makes a good data question.
+
+### to frame the discussion, let's meet 3 different organization that have data needs.
+
+  </textarea>
+</section>
+
+</section>
+
+
 <section>
-<h1>thanks!</h1>
+<section data-markdown>
+  <textarea data-template>
+
+## Hypothetical Org 1: Academic Institution
+
+ex: 
+
+- WWU Classfinder
+- Demographic data
+- Salaries
+- Grants
+
+  </textarea>
+</section>
+
+<section data-markdown>
+  <textarea data-template>
+## Hypothetical Org 2: Online Retail Store
+
+ex:
+
+- purchasing history
+- Google Analytics
+- competitor data
+
+  </textarea>
+</section>
+
+<section data-markdown>
+  <textarea data-template>
+
+## Dataset 3: County/Municipality
+
+ex:
+
+- census
+- county budget
+- personnel list
+
+  </textarea>
+</section>
+
+</section>
+
+<section data-markdown>
+  <textarea data-template>
+
+## Break out into groups
+
+- what questions can data answer?
+- what questions would need more data to answer?
+- what questions would data not be able to answer?
+    
+  </textarea>
+</section>
+
+<section>
+<section data-markdown>
+  <textarea data-template>
+
+## share out
+
+- what questions can data answer?
+- what questions would need more data to answer?
+- what questions would data not be able to answer?
+    
+  </textarea>
+</section>
+<section data-markdown>
+  <textarea data-template>
+
+## for each of these:
+
+- could you answer the question without data/data science?
+- would the analysis be valueable?
+- would modeling the answer with data convince you?
+    
+  </textarea>
+</section>
+</section>
+
+
+<section>
+    <h1>thanks!</h1>
 </section>
 
 <section data-markdown>
@@ -237,5 +329,5 @@ these slides are available here:
 
 * membership: [https://forms.office.com/r/qLZded0fGN](https://forms.office.com/r/qLZded0fGN)
 * leadership: [https://forms.office.com/r/zAfcQkFyq9](https://forms.office.com/r/zAfcQkFyq9)
-
+  </textarea>
 </section>
