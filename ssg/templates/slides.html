@@ -9,7 +9,11 @@
 <body>
 <div class="reveal">
     <div class="slides">
-        {{ this.body }}
+        <section data-markdown data-separator="^\=\=\=" data-separator-vertical="^\=\=">
+            <textarea data-template>
+                {{ this.body }}
+            </textarea>
+        </section>
     </div>
 </div>
 <script src="{{ '/static/revealjs/reveal.js' | url }}"></script>
