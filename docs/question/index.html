@@ -5,6 +5,11 @@
     <title>Week 1: Question - WWU Data Science Club</title>
     <link rel="stylesheet" href="../static/revealjs/reveal.css">
     <link rel="stylesheet" href="../static/revealjs/black.css">
+    <style>
+        :root {
+            --r-heading1-size: 62px;
+        }
+    </style>
 </head>
 <body>
 <div class="reveal">
@@ -346,7 +351,12 @@ ex:
 <script src="../static/revealjs/markdown.js"></script>
 <script>
 Reveal.initialize({
-    plugins: [ RevealMarkdown ]
+    plugins: [ RevealMarkdown ],
+    controlsLayout: 'edges',
+    slideNumber: "h.v",
+    hash: true,
+
+
 });
 </script>
 </body>

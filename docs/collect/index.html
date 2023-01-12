@@ -5,6 +5,11 @@
     <title>week 2: question - WWU Data Science Club</title>
     <link rel="stylesheet" href="../static/revealjs/reveal.css">
     <link rel="stylesheet" href="../static/revealjs/black.css">
+    <style>
+        :root {
+            --r-heading1-size: 62px;
+        }
+    </style>
 </head>
 <body>
 <div class="reveal">
@@ -15,25 +20,31 @@
 
 ==
 
-the **fourth** ever club meeting!
+# the **fourth** ever club meeting!
 
 ==
 
-*vuvuzela sounds*
+# *vuvuzela sounds*
 
 ==
+
+# why are we here?
 
 you're probably here for lots of different reasons, but mainly to have **fun with data and cultivate community and friendships**.
 
 ==
+
+# meeting expectations: none
+
 lots going on at the beginning of the quarter, so please arrive however you are, and do whatever your body needs - **wiggles are welcome!**
 
 ===
+
 # agenda
 
 - welcome.
 - agenda.
-- meeting schedule.
+- dataset shareout.
 - introductions.
 - stretch break.
 - group activity.
@@ -51,24 +62,61 @@ these slides are available here:
 
 ===
 
+# dataset shareout
+
+[TODO] [dataset that sarah likes](#)
+
+===
+
+# introductions
+
+theory: cohesive communities are built on names.
+
+==
+
+# first go around (in order)
+
+name / (pronouns)
+
+==
+
+# second go around, (*popcorn style*)
+
+[TODO] question for the group
+
+===
+
+# stretch break (5 min).
+
+===
+
 # collect!
 
 ===
 
+# background
+
+==
+
 # collection types
 
-- methods of data collection
-    - manual
-        - observations.
-        - interviews.
-        - surveys.
-    - automated
-        - existing databases.
-        - logs.
+methods of data collection
+- manual
+    - observations.
+    - interviews.
+    - surveys.
+- automated
+    - existing databases.
+    - logs.
 
 ===
 
 # data set types
+
+- observational
+- experimental
+- simulation
+- derived
 
 ==
 
@@ -98,12 +146,15 @@ existing dataset, sifting through.
 
 # ethical concerns
 
+[TODO]
 
 ===
 
-# example
+# live example
 
-I want to know: 
+==
+
+# I want to know (question): 
 
 who's the best prof/class combo in the department?
 
@@ -113,7 +164,10 @@ who's the best prof/class combo in the department?
 
 ===
 
+
 # observational
+
+q: "who's the best prof/class combo in the department?"
 
 sit in on classes, observe student fidgeting.
 
@@ -121,17 +175,23 @@ sit in on classes, observe student fidgeting.
 
 # experimental
 
+q: "who's the best prof/class combo in the department?"
+
 collect student feedback with surveys.
 
 ==
 
 # simulation
 
+q: "who's the best prof/class combo in the department?"
+
 ???
 
 ==
 
 # derived
+
+q: "who's the best prof/class combo in the department?"
 
 class finder enrollment numbers over time
 
@@ -141,20 +201,30 @@ ratemyprofessor ratings
 
 # can we answer that today?
 
+==
+
+# let's try:
+
 collect, manual, sample of student opinion
+
+q: which collection type is this?
 
 ===
 
-# interview link
+# help me fill this out live (experimental/manual)
 
 (google docs)[#]
 
 ==
 
-# interview link
+# alternative approach (experimental/automatic)
 
 (google form)[#]
 
+==
+# another alternative (derived).
+
+[meta matt](https://meta.publicmatt.com/public/question/29fbc244-0766-4bed-8d50-82c9a601d655)
 ===
 
 # limitations
@@ -172,7 +242,12 @@ collect, manual, sample of student opinion
 <script src="../static/revealjs/markdown.js"></script>
 <script>
 Reveal.initialize({
-    plugins: [ RevealMarkdown ]
+    plugins: [ RevealMarkdown ],
+    controlsLayout: 'edges',
+    slideNumber: "h.v",
+    hash: true,
+
+
 });
 </script>
 </body>
