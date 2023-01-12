@@ -4,7 +4,9 @@ title: week 2: question
 ---
 body:
 
-# collect
+# wwu data science club
+
+## collect
 
 ==
 
@@ -35,9 +37,8 @@ lots going on at the beginning of the quarter, so please arrive however you are,
 - dataset shareout.
 - introductions.
 - stretch break.
-- group activity.
+- main event.
 - group shareout.
-- open the floor.
 - conclusion.
 
 ===
@@ -52,7 +53,9 @@ these slides are available here:
 
 # dataset shareout
 
-[TODO] [dataset that sarah likes](#)
+[Disney Ride Incident Data](https://www.kaggle.com/datasets/aaronjones32/universalwdw-incident-data-20022022)
+
+raw: [csv](https://studentweb.cs.wwu.edu/~jensen33/data/incidents.csv) | [sqlite](https://studentweb.cs.wwu.edu/~jensen33/data/disney.db)
 
 ===
 
@@ -62,15 +65,10 @@ theory: cohesive communities are built on names.
 
 ==
 
-# first go around (in order)
+# go around (in order)
 
-name / (pronouns)
-
-==
-
-# second go around, (*popcorn style*)
-
-[TODO] question for the group
+- name / (pronouns)?
+- why are you here instead of somewhere else?
 
 ===
 
@@ -85,19 +83,6 @@ name / (pronouns)
 # background
 
 ==
-
-# collection types
-
-methods of data collection
-- manual
-    - observations.
-    - interviews.
-    - surveys.
-- automated
-    - existing databases.
-    - logs.
-
-===
 
 # data set types
 
@@ -134,7 +119,18 @@ existing dataset, sifting through.
 
 # ethical concerns
 
-[TODO]
+==
+
+# checklist
+
+- obtain consent
+    - be clear and truthful about what and how data is collected and used.
+- anonymize data
+    - more data == less anonymous
+    - impossible to guarantee [see link](https://www.nature.com/articles/s41467-019-10933-3.pdf)
+- analyze and address bias
+    - ongoing research
+    - 
 
 ===
 
@@ -149,6 +145,8 @@ who's the best prof/class combo in the department?
 ==
 
 # how do I answer that?
+
+live example
 
 ===
 
@@ -196,29 +194,40 @@ ratemyprofessor ratings
 collect, manual, sample of student opinion
 
 q: which collection type is this?
+q: limitations?
 
 ===
 
 # help me fill this out live (experimental/manual)
 
-(google docs)[#]
+[spreadsheet](https://wwu2-my.sharepoint.com/:x:/g/personal/cofflas_wwu_edu/Ee1ig___xchImC0rPs5LOzQBEg8ArjMHJjFCMxFFavn_Tg?e=M9l1CY)
 
 ==
+
 
 # alternative approach (experimental/automatic)
 
-(google form)[#]
+[form](https://forms.office.com/r/Wq1PAnJt7s)
 
 ==
+
 # another alternative (derived).
 
-[meta matt](https://meta.publicmatt.com/public/question/29fbc244-0766-4bed-8d50-82c9a601d655)
+[derived](https://meta.publicmatt.com/public/question/29fbc244-0766-4bed-8d50-82c9a601d655)
+
 ===
 
-# limitations
+# share out
+
+what should we collect?
 
 ==
 
+# share out
 
+existing data sets?
 
+===
+
+# thanks!
 
