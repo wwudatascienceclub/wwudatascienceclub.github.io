@@ -1,0 +1,9 @@
+_model: page
+---
+body:
+
+# informational posters
+
+- [poster 1](/static/poster_1.png)
+- [poster 2](/static/poster_2.pdf)
+- [poster 3](/static/poster_3.png)
