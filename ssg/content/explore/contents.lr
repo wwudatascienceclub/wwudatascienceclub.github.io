@@ -1,0 +1,109 @@
+_model: slides
+---
+title: explore
+---
+body:
+
+
+# wwu data science club
+
+## explore
+
+==
+
+### Why are we here?
+
+== 
+
+To have fun and create a community of people who are interested in **exploring** data science. 
+
+==
+
+### Who am I?
+
+==
+
+### Who are you?
+
+==
+
+### Quick Introductions
+- Name
+- Prononuns
+
+==
+
+### Question of the day:
+
+What is the best class you've taken at Western? (cs/data related or not)
+
+
+===
+
+# Main Event - Explore
+
+==
+
+# btw
+
+These slides are available here: 
+
+[https://wwudatascienceclub.github.io/explore/](https://wwudatascienceclub.github.io/explore/)
+
+==
+
+What is exploratory data analysis (EDA)?
+
+==
+**The process of finding out what is in your dataset:**
+- Summary statistics
+- Finding patterns, trends, relationships
+- Creating visualizations to view and understand our data in a new way
+
+==
+
+### A four-step recipe to exploratory data analysis:
+1. Get your data
+2. Open and explore
+3. Visualize your data
+4. Ask questions (and try to answer them)
+
+===
+
+# Live Demo
+
+==
+
+# btw
+
+You can follow along here:
+
+[Demo Exploration](https://colab.research.google.com/drive/1-kJiT6QzDNLwR0sdw8H5A4oV_AByBrx7?usp=sharing)
+
+==
+# Step 1: Get your data
+
+==
+### Some resources to find data:
+- [kaggle.com](https://www.kaggle.com/)
+- [google dataset search](https://datasetsearch.research.google.com/)
+- [data.gov](https://catalog.data.gov/dataset)
+
+==
+# Step 2: Open and Explore
+
+== 
+
+# Step 3: Visualize your data
+
+==
+# Step 4: Ask Questions
+
+(and try to answer them)
+
+===
+### Thanks for coming! 
+
+See you next week for modeling with Seth!
+
+
