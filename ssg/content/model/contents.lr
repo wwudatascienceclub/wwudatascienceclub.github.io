@@ -1,0 +1,111 @@
+_model: slides
+---
+title: model
+---
+body:
+
+
+# wwu data science club
+
+## model
+
+==
+
+### Why are we here?
+
+== 
+
+To have fun and create a community of people who are interested in **exploring** data science. 
+
+==
+
+### Who am I?
+
+==
+
+### Who are you?
+
+==
+
+### Quick Introductions
+
+- Name
+- Prononuns
+
+==
+
+### Question of the day:
+
+What excites you about computer science? Why are you here?
+
+==
+
+# btw
+
+These slides are available here: 
+
+[https://wwudatascienceclub.github.io/model/](https://wwudatascienceclub.github.io/model/)
+
+===
+
+### Dataset of the day
+
+[Global Power Plants](https://global-power-plants.datasettes.com/global-power-plants/global-power-plants)
+
+===
+
+# Main Event - Model
+
+===
+
+Why do we model things?
+
+==
+
+- make predictions.
+- generalize learning.
+- informed decision making.
+
+===
+
+Examples of Models
+
+==
+
+- Climate Models - how do variables like CO2 effects temperatures?
+- Google Search - what websites match a query?
+- ChatGPT - what does language look like?
+- Amazon Recommendation Engine - what products do similar shoppers purchase?
+- USPS - what address is this?
+
+==
+
+[akinator](https://en.akinator.com/)
+
+===
+
+Model Types
+
+==
+
+- Clustering
+    - Decision Trees
+- Regression
+- Classification
+
+==
+
+- Generative
+- Descriminative
+
+===
+
+# Live Demo
+
+==
+
+===
+
+### Thanks for coming! 
+
+See you next week for 'present' with Matt and Brenn!
